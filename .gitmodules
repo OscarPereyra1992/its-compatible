@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git://G:/Proyectos/its-compatible/frontend
+[submodule "backend"]
+	path = backend
+	url = git://G:/Proyectos/its-compatible/backend
